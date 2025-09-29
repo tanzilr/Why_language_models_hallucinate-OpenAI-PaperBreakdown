@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Why Language Models Hallucinate
 
 This repository contains materials related to the paper "Why Language Models Hallucinate" by OpenAI.
@@ -27,3 +28,10 @@ The paper argues that current evaluation methods reward models for guessing, whi
 ### Proposed Solution:
 
 The authors propose modifying mainstream benchmarks to include confidence targets, which would reward models for abstaining when uncertain.
+=======
+
+These are my notes I developed during reading and making sense of this paper released by OpenAI researches regarding 'Why Language Models Hallucinate'. 
+
+This repository contains mindmap and highlight of this paper. 
+
+>>>>>>> 64e6d7bdcdb0d97b386b081d3abb293615d6b331
