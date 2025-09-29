@@ -1,5 +1,5 @@
 
-## Hallucination - meaning
+## Hallucination - Meaning
 A plausible falsehoods, which diminish their utility. This error mode is known as “hallucination,” though it differs fundamentally from the human perceptual experience.
 
 
